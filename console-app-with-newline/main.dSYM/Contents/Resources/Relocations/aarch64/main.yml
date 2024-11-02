@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kode/workspace/kodega/labs/c-programming-I/console-app-with-newline/main'
+relocations:     []
+...
