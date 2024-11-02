@@ -8,5 +8,11 @@ int main(void){
   }else{
     printf("You are welcome!!!\n");
   }
+
+  double a=10.0;
+  double b=10.00;
+
+  if(a==b)
+    printf("a is equal to b\n");
 }
 
