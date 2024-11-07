@@ -7,5 +7,7 @@ int main(void){
         comments for c programming
     */
     printf("this is a simple program");
+  printf("comments are ignored by the compiler");
+   
     return 0;
 }
